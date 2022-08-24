@@ -1,0 +1,528 @@
+/*css media query code start*/
+
+@media (min-width: 279px) and (max-width: 319px){
+	.container{
+		width: 90%;
+		margin: 0px auto;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-3{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-4{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-6{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-9{
+		width: 100%;
+		float: left;
+	}
+	.col-log-12{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		width: 100%;
+		text-align: center;
+	}
+	.header .logo img{
+		width: 110px;
+	}
+	.header .navbar{
+		text-align: left;
+	}
+	.header .navbar li a{
+		font-size: 8px;
+		margin: 15px 4px 0px 15px;
+	}
+	.online-section{
+		padding: 20px 0px;
+	}
+	.inner-online h1{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.inner-online p{
+		font-size: 10px;
+		line-height: 20px;
+	}
+	.inner-online .banner-img{
+		width: 75%;
+	}
+	.inner-feature{
+		margin: 0px -5px 10px;
+	}
+	.inner-left h2{
+		font-size: 40px;
+		text-align: left;
+		margin: 0px 20px 0px 10px;
+	}
+	.inner-left p{
+		font-size: 13px;
+		line-height: 19px;
+		text-align: center;
+		margin: 50px 20px 0px 20px;
+	}
+	.project{
+		font-size: 20px;
+		line-height: 28px;
+		text-align: right;
+		margin: -275px 10px 0px 20px;
+	}
+	.over-view h1{
+		font-size: 13px;
+		font-weight: 500;
+		line-height: 24px;
+	}
+	.over-view p{
+		margin: 10px 0px 10px;
+		font-size: 12px;
+	}
+	.online-section .Landings img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Landings h1{
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.online-section .Landings p{
+		font-size: 13px;
+		margin: 10px 0px 10px;
+	}
+	.online-section .Pages img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Pages h1{
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.online-section .Pages p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Apps img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Apps h1{
+		font-size: 18px;
+		line-height: 25px;
+	}
+	.online-section .Apps p{
+		font-size: 13px;
+		margin: 10px 0px 10px;
+	}
+	.online-section .Docs img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Docs h1{
+		font-size: 18px;
+		line-height: 25px;
+	}
+	.online-section .Docs p{
+		font-size: 13px;
+		margin: 10px 0px 10px;
+	}
+}
+
+
+/*MAXIMUM MOBILE DEVICE RESOLUTION 320PX-480PX*/
+@media (min-width: 320px) and (max-width: 480px){
+
+	.container{
+		width: 90%;
+		margin: 0px auto;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-3{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-4{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-6{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-9{
+		width: 100%;
+		float: left;
+	}
+	.col-log-12{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		width: 100%;
+		text-align: center;
+	}
+	.header .logo img{
+		width: 150px;
+	}
+	.header .navbar{
+		text-align: left;
+	}
+	.header .navbar li a{
+		font-size: 13px;
+		margin: 15px 4px 0px 15px;
+	}
+	.online-section{
+		padding: 30px 0px;
+	}
+	.inner-online h1{
+		font-size: 28px;
+		line-height: 38px;
+	}
+	.inner-online p{
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.inner-online .banner-img{
+		width: 80%;
+	}
+	.inner-feature{
+		margin: 0px 0px 10px;
+	}
+	.inner-left h2{
+		text-align: left;
+	}
+	.inner-left p{
+		text-align: center;
+		margin: 50px 20px 0px 20px;
+	}
+	.project{
+		font-size: 26px;
+		line-height: 36px;
+		text-align: right;
+		margin: -345px 0px 0px 20px;
+	}
+	.over-view h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.over-view p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Landings img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Landings h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Landings p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Pages img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Pages h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Pages p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Apps img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Apps h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Apps p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Docs img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Docs h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Docs p{
+		margin: 10px 0px 10px;
+	}	
+}
+
+/*MOBILE DEVICE AND LOW RESOLUTION TAB*/
+@media (min-width: 481px) and (max-width: 767px){
+
+	.container{
+		width: 90%;
+		margin: 0px auto;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-3{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-4{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-6{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-9{
+		width: 100%;
+		float: left;
+	}
+	.col-log-12{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		width: 100%;
+		text-align: center;
+	}
+	.header .logo img{
+		width: 150px;
+	}
+	.header .navbar{
+		text-align: center;
+	}
+	.header .navbar li a{
+		font-size: 13px;
+		margin: 15px 4px 0px 15px;
+	}
+	.online-section{
+		padding: 30px 0px;
+	}
+	.inner-online h1{
+		font-size: 36px;
+		line-height: 40px;
+	}
+	.inner-online p{
+		font-size: 15px;
+		line-height: 23px;
+	}
+	.inner-online .banner-img{
+		width: 75%;
+	}
+	.inner-feature{
+		margin: 0px 8px 10px;
+	}
+	.inner-left h2{
+		text-align: left;
+		margin: 0px 20px 0px 95px;
+	}
+	.inner-left p{
+		text-align: center;
+		margin: 50px 20px 0px 20px;
+	}
+	.project{
+		font-size: 26px;
+		line-height: 36px;
+		text-align: right;
+		margin: -270px 65px 0px 20px;
+	}
+	.over-view h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.over-view p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Landings img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Landings h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Landings p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Pages img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Pages h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Pages p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Apps img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Apps h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Apps p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Docs img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Docs h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Docs p{
+		margin: 10px 0px 10px;
+	}
+}
+
+
+/*TABLET AND MINI NOTEBOOK */
+@media (min-width: 768px) and (max-width: 1024px){
+
+	.container{
+		width: 90%;
+		margin: 0px auto;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-3{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-4{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-6{
+		width: 100%;
+		float: left;
+	}
+	.col-lg-9{
+		width: 100%;
+		float: left;
+	}
+	.col-log-12{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		width: 100%;
+		text-align: center;
+	}
+	.header .logo img{
+		width: 150px;
+	}
+	.header .navbar{
+		text-align: center;
+	}
+	.header .navbar li a{
+		font-size: 13px;
+		margin: 15px 4px 0px 15px;
+	}
+	.online-section{
+		padding: 30px 0px;
+	}
+	.inner-online h1{
+		font-size: 36px;
+		line-height: 40px;
+	}
+	.inner-online p{
+		font-size: 15px;
+		line-height: 23px;
+	}
+	.inner-online .banner-img{
+		width: 75%;
+	}
+	.inner-feature{
+		margin: 0px 50px 10px;
+	}
+	.inner-left h2{
+		text-align: left;
+		margin: 0px 20px 0px 238px;
+
+	}
+	.inner-left p{
+		text-align: center;
+		margin: 50px 20px 0px 20px;
+	}
+	.project{
+		font-size: 26px;
+		line-height: 36px;
+		text-align: right;
+		margin: -236px 165px 0px 20px;
+	}
+	.over-view h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.over-view p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Landings img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Landings h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Landings p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Pages img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Pages h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Pages p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Apps img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Apps h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Apps p{
+		margin: 10px 0px 10px;
+	}
+	.online-section .Docs img{
+		width: 100%;
+		text-align: center;
+	}
+	.online-section .Docs h1{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.online-section .Docs p{
+		margin: 10px 0px 10px;
+	}	
+
+}
+
+	
